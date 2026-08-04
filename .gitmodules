@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/jiankn/jiankn.r-universe.dev
 	branch = HEAD
+[submodule "nbmecalc"]
+	path = nbmecalc
+	url = https://github.com/jiankn/nbmecalc-r
 [submodule "pinteresturl"]
 	path = pinteresturl
 	url = https://github.com/jiankn/pinterest-url-normalizer-r
