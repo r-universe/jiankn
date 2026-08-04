@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/jiankn/jiankn.r-universe.dev
 	branch = HEAD
+[submodule "pinteresturl"]
+	path = pinteresturl
+	url = https://github.com/jiankn/pinterest-url-normalizer-r
