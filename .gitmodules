@@ -8,3 +8,6 @@
 [submodule "pinteresturl"]
 	path = pinteresturl
 	url = https://github.com/jiankn/pinterest-url-normalizer-r
+[submodule "textpatterns"]
+	path = textpatterns
+	url = https://github.com/jiankn/relationship-text-patterns-r
